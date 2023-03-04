@@ -8,6 +8,7 @@ class SupermarketBackApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }

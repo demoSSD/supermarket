@@ -1,0 +1,15 @@
+2023-03-04 14:18:37.439 INFO  [][] [main] c.e.s.SupermarketBackApplicationTests:55 - Starting SupermarketBackApplicationTests using Java 1.8.0_312 on LAPTOP-9IP9P4G1 with PID 19480 (started by 86198 in D:\aaa\超市管理系统\supermarket_back)
+2023-03-04 14:18:37.441 DEBUG [][] [main] c.e.s.SupermarketBackApplicationTests:56 - Running with Spring Boot v2.6.11, Spring v5.3.22
+2023-03-04 14:18:37.442 INFO  [][] [main] c.e.s.SupermarketBackApplicationTests:651 - The following 1 profile is active: "local"
+2023-03-04 14:18:38.152 WARN  [][] [main] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.supermarket_back]' package. Please check your configuration.
+2023-03-04 14:18:40.999 INFO  [][] [main] c.e.s.SupermarketBackApplicationTests:61 - Started SupermarketBackApplicationTests in 4.116 seconds (JVM running for 5.664)
+2023-03-04 14:19:19.890 INFO  [][] [main] c.e.s.SupermarketBackApplication:55 - Starting SupermarketBackApplication using Java 1.8.0_312 on LAPTOP-9IP9P4G1 with PID 1716 (D:\aaa\超市管理系统\supermarket_back\target\classes started by 86198 in D:\aaa\超市管理系统\supermarket_back)
+2023-03-04 14:19:19.894 DEBUG [][] [main] c.e.s.SupermarketBackApplication:56 - Running with Spring Boot v2.6.11, Spring v5.3.22
+2023-03-04 14:19:19.895 INFO  [][] [main] c.e.s.SupermarketBackApplication:651 - The following 1 profile is active: "local"
+2023-03-04 14:19:20.415 WARN  [][] [main] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.supermarket_back]' package. Please check your configuration.
+2023-03-04 14:19:21.723 INFO  [][] [main] c.e.s.SupermarketBackApplication:61 - Started SupermarketBackApplication in 2.335 seconds (JVM running for 3.305)
+2023-03-04 14:21:35.451 INFO  [][] [main] c.e.s.SupermarketBackApplication:55 - Starting SupermarketBackApplication using Java 1.8.0_312 on LAPTOP-9IP9P4G1 with PID 20016 (D:\aaa\超市管理系统\supermarket_back\target\classes started by 86198 in D:\aaa\超市管理系统\supermarket_back)
+2023-03-04 14:21:35.454 DEBUG [][] [main] c.e.s.SupermarketBackApplication:56 - Running with Spring Boot v2.6.11, Spring v5.3.22
+2023-03-04 14:21:35.455 INFO  [][] [main] c.e.s.SupermarketBackApplication:651 - The following 1 profile is active: "local"
+2023-03-04 14:21:36.003 WARN  [][] [main] o.m.s.m.ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.example.supermarket_back]' package. Please check your configuration.
+2023-03-04 14:21:37.296 INFO  [][] [main] c.e.s.SupermarketBackApplication:61 - Started SupermarketBackApplication in 2.491 seconds (JVM running for 3.93)
